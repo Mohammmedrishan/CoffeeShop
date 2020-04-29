@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D21800E7-22AC-4CA4-8290-5A596B4A4DF4"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "10490AD0-BFC6-43FD-952E-36D585CF1C2A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoffeeShop/Services/WebServices.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "Resource"
+            landmarkType = "21">
+            <Locations>
+               <Location
+                  uuid = "10490AD0-BFC6-43FD-952E-36D585CF1C2A - 71452c54faa34afe"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in CoffeeShop.WebService.load&lt;A where A: Swift.Decodable, A: Swift.Encodable&gt;(resource: CoffeeShop.Resource&lt;A&gt;, completion: (Swift.Result&lt;A, CoffeeShop.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "CoffeeShop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammedrishan/Documents/MacBookAir/myXcodeProject/CoffeeShop/CoffeeShop/Services/WebServices.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "1010">
+               </Location>
+               <Location
+                  uuid = "10490AD0-BFC6-43FD-952E-36D585CF1C2A - 25fa69b6d5c320e2"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in CoffeeShop.WebService.load&lt;A where A: Swift.Decodable, A: Swift.Encodable&gt;(resource: CoffeeShop.Resource&lt;A&gt;, completion: (Swift.Result&lt;A, CoffeeShop.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "CoffeeShop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammedrishan/Documents/MacBookAir/myXcodeProject/CoffeeShop/CoffeeShop/Services/WebServices.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "161">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
